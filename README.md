@@ -1,2 +1,5 @@
 # PROM
-Thank you CloudCrasher and many other friends!
+
+Disclaimer: All rights reserved to the copyright owners (CloudCrasher and his friends).
+
+Thank you CloudCrasher and many others!
